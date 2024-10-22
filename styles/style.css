@@ -44,7 +44,7 @@ ol {
   align-items: flex-end;
   width: 1140px;
   height: fit-content;
-  margin: 134px auto;
+  margin: auto;
 }
 
 .result__video-container,
